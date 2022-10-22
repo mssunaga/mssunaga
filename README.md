@@ -1,8 +1,4 @@
-#### Hello, world! 👋
-#### It's Marcello here :smile:
-
-##### You can contact me here:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcello-sunaga/)](https://www.linkedin.com/in/marcello-sunaga/)
+#### Hello, world! It's Marcello here :smile:
 
 #### About me:
 
@@ -17,6 +13,8 @@ I love to learn new techniques and tools to dive deep in solving problems.
 <div>
 <img height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mssunaga&layout-compact&langs_count-16&theme=dark"/>
 </div>
-                                                                                                             
+
+##### You can contact me here:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcello-sunaga/)](https://www.linkedin.com/in/marcello-sunaga/)
                                                                                                              
                                                                                                              
