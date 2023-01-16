@@ -1,8 +1,8 @@
-#### Hello, world! It's Marcello here :smile:
+#### Hello, world! 
+####### I'm Marcello :smile:
 
 #### About me:
-I'm a data analyst working towards a career in data science!
-I love to learn new techniques and tools to dive deep in solving problems.
+I'm working towards a career in data science and I love to learn new techniques and tools to dive deep in solving problems.
 
 #### My developing skills atm:
 
