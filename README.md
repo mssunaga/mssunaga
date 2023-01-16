@@ -12,7 +12,8 @@ I'm working towards a career in data science and I love to learn new techniques 
 <img height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mssunaga&layout-compact&langs_count-16&theme=dark"/>
 </div>
 
-##### You can contact me here:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcello-sunaga/)](https://www.linkedin.com/in/marcello-sunaga/)
+##### My Linkedin if you want to reach me:
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="marcello-sunaga" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/marcello-sunaga?trk=profile-badge">Marcello Sunaga</a></div>
+              
                                                                                                              
                                                                                                              
