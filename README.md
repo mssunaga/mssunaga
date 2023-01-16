@@ -13,8 +13,7 @@ I'm working towards a career in data science and I love to learn new techniques 
 </div>
 
 ##### My Linkedin if you want to reach me:
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="marcello-sunaga" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/marcello-sunaga?trk=profile-badge">Marcello Sunaga</a></div>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcello-sunaga/)](https://www.linkedin.com/in/marcello-sunaga/)
               
                                                                                                              
                                                                                                              
